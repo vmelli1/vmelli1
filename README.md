@@ -26,7 +26,8 @@
 - **[ListaDeTarefasJava](https://github.com/vmelli1/lista-de-tarefas-java)**  
   Gerenciamento de tarefas em Java usando `ArrayList` e `Scanner`.
 
-- **[MiniProjetoBibliotecaJava](https://github.com/vmelli1/MiniProjetoBiblioteca)** 
+- **[MiniProjetoBibliotecaJava](https://github.com/vmelli1/MiniProjetoBiblioteca)**
+  Gerenciamente de livros;autores em java usando `ArrayList` e `Scanner`.
 
 ---
 
