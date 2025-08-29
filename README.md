@@ -24,7 +24,9 @@
   Programa em Java para gerar tabuadas de 1 a 10.  
 
 - **[ListaDeTarefasJava](https://github.com/vmelli1/lista-de-tarefas-java)**  
-  Gerenciamento de tarefas em Java usando `ArrayList` e `Scanner`.  
+  Gerenciamento de tarefas em Java usando `ArrayList` e `Scanner`.
+
+- **[MiniProjetoBibliotecaJava](https://github.com/vmelli1/MiniProjetoBiblioteca)** 
 
 ---
 
