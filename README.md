@@ -28,6 +28,16 @@
 
 - **[MiniProjetoBibliotecaJava](https://github.com/vmelli1/MiniProjetoBiblioteca)**  
   Gerenciamente de livros;autores em java usando `ArrayList` e `Scanner`.
+  
+- **[consultaTabelaFipeJava](https://github.com/vmelli1/consulta-tabela-fipe-java)**
+  Este projeto demonstra o consumo da API pública da FIPE, manipulação de dados com Streams e uso de expressões lambda para filtragem e ordenação.
+
+- **[consultaCepApiJava](https://github.com/vmelli1/consulta-cep-api-java)**
+ consumir a API pública ViaCEP, converter a resposta JSON usando Gson e salvar os dados formatados em um arquivo .json.
+
+- **[CursoAluraSpringJpaJava](https://github.com/vmelli1/Curso-alura-spring-jpa)**
+  O objetivo deste projeto é praticar os conceitos básicos de persistência de dados utilizando Spring Data JPA e PostgreSQL, conforme os módulos do curso.
+
 
 ---
 
