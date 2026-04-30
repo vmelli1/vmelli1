@@ -34,7 +34,7 @@ desempenho de sistemas no futuro.
 
 ## 🚀  Aplicações SaaS & Sistemas Completos | Projeto
 
-- **[FoodFlow - Gestão de Cardápio Digita](https://github.com/vmelli1/vik-fastfood-api.git)
+- **[FoodFlow - Gestão de Cardápio Digita](https://github.com/vmelli1/vik-fastfood-api.git)**
  Sistema Multi-tenant para restaurantes com foco em Arquitetura Limpa, Design Patterns (Builder, Strategy, Chain of Responsibility) e persistência de dados robusta.
 
  ---
